@@ -51,17 +51,27 @@
 
 
 
-nota1 = int(input('Digite a nota p1:'))
-nota2 = int(input('Digite a nota p2:'))
+# nota1 = int(input('Digite a nota p1:'))
+# nota2 = int(input('Digite a nota p2:'))
 
-media = (nota1 + nota2) / 2
+# media = (nota1 + nota2) / 2
 
-if media >= 9:
-     print ('Aprovado SS, SUA MÉDIA:',media)
-elif media >= 5:
-        print ('aprovado MS, SUA MÉDIA',media)
-elif media == 5:
-        print ('Aprovado MM, SUA MÉDIA:',media)
+# if media >= 9:
+#      print ('Aprovado SS, SUA MÉDIA:',media)
+# elif media >= 5:
+#         print ('aprovado MS, SUA MÉDIA',media)
+# elif media == 5:
+#         print ('Aprovado MM, SUA MÉDIA:',media)
 
-else:
-       print('Você está reprovado,melhore no semestre que vem.')
+# else:
+#        print('Você está reprovado,melhore no semestre que vem.')
+
+# cor1= input('Cor Favorita de Maria?:')
+# cor2= input('Cor Favorita de Pedro?:')
+# cor3= input('Cor Favorita de Andre?:')
+# cor4= input('Cor Favorita de Camila?:')
+
+# cores= print ('A Cor Favorita de Maria é:', cor1)
+# cores= print ('A Cor Favorita de Pedro é:', cor2)
+# cores= print ('A Cor Favorita de Andreé:', cor3)
+# cores= print ('A Cor Favorita de Camila é:', cor4)
